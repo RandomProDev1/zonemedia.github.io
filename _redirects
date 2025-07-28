@@ -2,3 +2,13 @@
 /services/*    /services/:splat.html    200
 /services/*/   /services/:splat.html    200
 
+
+/          /index.html       200
+/index     /index.html       200
+/index/    /index.html       200
+
+
+/ku        /index-ku.html    200
+/index-ku  /index-ku.html    200
+/index-ku/ /index-ku.html    200
+
