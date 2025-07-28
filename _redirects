@@ -24,37 +24,38 @@
 /index-ku.html   /ku              301!  
 
 
-# English routes
-/home       /index.html#Home      200
-/home/      /index.html#Home      200
+# English section routes
+/home        /index.html   #Home   200
+/home/       /index.html   #Home   200
 
-/about      /index.html#About     200
-/about/     /index.html#About     200
+/about       /index.html   #About  200
+/about/      /index.html   #About  200
 
-/services   /index.html#Services  200
-/services/  /index.html#Services  200
+/services    /index.html   #Services 200
+/services/   /index.html   #Services 200
 
-/clients    /index.html#Clients   200
-/clients/   /index.html#Clients   200
+/clients     /index.html   #Clients  200
+/clients/    /index.html   #Clients  200
 
-/contact    /index.html#Contact   200
-/contact/   /index.html#Contact   200
+/contact     /index.html   #Contact  200
+/contact/    /index.html   #Contact  200
 
-# Kurdish routes
-/ku/home       /index-ku.html#Home      200
-/ku/home/      /index-ku.html#Home      200
+# Kurdish section routes
+/ku/home     /index-ku.html  #Home   200
+/ku/home/    /index-ku.html  #Home   200
 
-/ku/about      /index-ku.html#About     200
-/ku/about/     /index-ku.html#About     200
+/ku/about    /index-ku.html  #About  200
+/ku/about/   /index-ku.html  #About  200
 
-/ku/services   /index-ku.html#Services  200
-/ku/services/  /index-ku.html#Services  200
+/ku/services /index-ku.html  #Services 200
+/ku/services/ /index-ku.html #Services 200
 
-/ku/clients    /index-ku.html#Clients   200
-/ku/clients/   /index-ku.html#Clients   200
+/ku/clients  /index-ku.html  #Clients 200
+/ku/clients/ /index-ku.html  #Clients 200
 
-/ku/contact    /index-ku.html#Contact   200
-/ku/contact/   /index-ku.html#Contact   200
+/ku/contact  /index-ku.html  #Contact 200
+/ku/contact/ /index-ku.html  #Contact 200
+
 
 
 
