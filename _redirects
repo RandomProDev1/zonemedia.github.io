@@ -1,6 +1,9 @@
 
-/services/*    /services/:splat.html    200
-/services/*/   /services/:splat.html    200
+/services/*           /services/:splat.html      200
+/services/*/          /services/:splat.html      200
+
+/ku/services/*        /ku/services/:splat.html   200
+/ku/services/*/       /ku/services/:splat.html   200
 
 
 /          /index.html       200
